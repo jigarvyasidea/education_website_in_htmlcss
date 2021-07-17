@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-inverse {
+	background-color: transparent;
+	border-color: transparent;
+    background-attachment: fixed;
+  
+}
+.navbar-inverse .navbar-brand {
+	color: #fff;
+	font-size: 40px;
+	padding: 40px 15px;
+	font-weight: 900;
+}
+.nav.navbar-nav.navbar-right {
+	margin: 25px 0;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.Ah{
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    font-family: cursive;
+    color: rgb(14, 0, 0);
+}
+
+.form12{
+    margin-left: 20px;
+   margin-right: 20px;
+}
